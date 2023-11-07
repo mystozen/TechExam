@@ -2,7 +2,7 @@
 
 let songs = [
   {
-    name: "song 1",
+    name: "Di na kita mahal",
     path: "Silent Sanctuary - Di Na Kita Mahal (Official Lyric Video).mp3",
     artist: "silent sanctuary",
     cover: "All is well.jpg",
